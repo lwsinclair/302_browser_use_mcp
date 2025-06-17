@@ -92,7 +92,7 @@ class AI302Server {
     this.server = new Server(
       {
         name: "302ai-browser-use-mcp",
-        version: "0.1.1",
+        version: "0.1.2",
       },
       {
         capabilities: {
